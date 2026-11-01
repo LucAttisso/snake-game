@@ -26,7 +26,7 @@ The snake grows with every apple it eats, and the game speeds up as you play.
 ## Run the game
 
 ```bash
-git clone https://github.com/<lucAttisso>/snake-game.git
+git clone https://github.com/<LucAttisso>/snake-game.git
 cd snake-game
 python snake.py
 ```
